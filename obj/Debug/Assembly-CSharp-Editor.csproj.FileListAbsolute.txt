@@ -1,0 +1,2 @@
+C:\Users\StudioZ7\Desktop\Teste Unity\CESAR_Experiment_03\VRFOX\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:\Users\StudioZ7\Desktop\Teste Unity\CESAR_Experiment_03\VRFOX\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
